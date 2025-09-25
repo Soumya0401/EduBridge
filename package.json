@@ -2,7 +2,7 @@
   "name": "edubridge",
   "version": "1.0.0",
   "description": "mern project",
-  "homepage": "https://github.com/fawahkhan/EduBridge#readme",
+  "homepage": "https://github.com/Soumya0401/EduBridge#readme",
   "bugs": {
     "url": "https://github.com/fawahkhan/EduBridge/issues"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/fawahkhan/EduBridge.git"
   },
   "license": "ISC",
-  "author": "Fawah",
+  "author": "Abhay Kumar",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -27,3 +27,4 @@
     "nodemon": "^3.1.9"
   }
 }
+
