@@ -1,0 +1,29 @@
+{
+  "name": "edubridge",
+  "version": "1.0.0",
+  "description": "mern project",
+  "homepage": "https://github.com/fawahkhan/EduBridge#readme",
+  "bugs": {
+    "url": "https://github.com/fawahkhan/EduBridge/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawahkhan/EduBridge.git"
+  },
+  "license": "ISC",
+  "author": "Fawah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "nodemon": "^3.1.9"
+  }
+}
